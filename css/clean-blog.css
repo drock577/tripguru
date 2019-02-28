@@ -6,15 +6,15 @@
 header.masthead .page-heading,
 header.masthead .post-heading,
 header.masthead .site-heading {
-  padding: 200px 0 150px;
-  color: white;
+  padding: 50px 0 50px;
+  color: black;
 }
 
 @media only screen and (min-width: 768px) {
   header.masthead .page-heading,
   header.masthead .post-heading,
   header.masthead .site-heading {
-    padding: 200px 0;
+    padding: 50px 0;
   }
 }
 
@@ -71,7 +71,7 @@ header.masthead .post-heading .meta {
 }
 
 header.masthead .post-heading .meta a {
-  color: #fff;
+  color: black;
 }
 
 @media only screen and (min-width: 768px) {
