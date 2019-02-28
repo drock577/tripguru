@@ -170,6 +170,8 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
+}
+.background{
   color: white;
   background-image: url("../img/gcan.jpg");
   background-repeat: no-repeat;
@@ -177,7 +179,6 @@ header.masthead {
   background-position: center center;
   background-size: cover;
 }
-
 header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
